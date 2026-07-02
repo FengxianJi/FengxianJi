@@ -26,3 +26,6 @@ Hello, I am fengxian ji.
 
 ## 🌟 Education
 
+## 🌟 Honors & Awards
+- Outstanding Undergraduate Thesis
+- National Scholarship for Undergraduates
