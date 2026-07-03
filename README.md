@@ -24,7 +24,7 @@ Contact: jifengxian1224@gmail.com
 
 ## 🌟 Work Experience
 
-- Remote Research Assistant - Wuhan University, collaborating with Postdoc Zhuohan Xie
+- Remote Research Assistant - Wuhan University, Maintaining long-term collaboration with Postdoc Zhuohan Xie
 - Visiting Student - MBZUAI, advised by Xiuying Chen
 ## 🌟 Education
 
