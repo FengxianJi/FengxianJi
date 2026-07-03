@@ -24,6 +24,8 @@ Hello, I am fengxian ji.
 
 ## 🌟 Work Experience
 
+- Remote Research Assistant - Wuhan University, collaborating with Postdoc Zhuohan Xie
+- Visiting Student - MBZUAI, advised by Xiuying Chen
 ## 🌟 Education
 
 ## 🌟 Honors & Awards
