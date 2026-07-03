@@ -29,3 +29,4 @@ Hello, I am fengxian ji.
 ## 🌟 Honors & Awards
 - Outstanding Undergraduate Thesis
 - National Scholarship for Undergraduates
+- School Second-Class Scholarship
