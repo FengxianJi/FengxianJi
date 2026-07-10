@@ -3,7 +3,7 @@
 Hello, I am fengxian ji.
 Contact: jifengxian1224@gmail.com
 ---
->**Failure is common; what remains constant is dusting yourself off and starting again, and the goal will eventually be reached.**
+>**Failure is common; what remains constant is dusting yourself off and moving forward, until the goal is eventually reached.**
 
 >I repeatedly exiled myself into nothingness and finally came to understand...  **human agency alone counld't transcend all things.**  The vines of nihilism entwine us—not because they are a void, but because they are an inescapable part of reality. May there be a little more tolerance among people, and may there be a little more resilience within the self amidst suffering. One must save oneself rather than wait to be saved, for we are all equally entangled in the vines.
 
