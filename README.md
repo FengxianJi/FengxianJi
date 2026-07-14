@@ -29,7 +29,7 @@ Contact: jifengxian1224@gmail.com
 ## 🌟 Education
 
 ## 🌟 Honors & Awards
-- Outstanding Undergraduate Thesis
+- Outstanding Undergraduate Graduation Thesis
 - National Scholarship for Undergraduates
 - School Second-Class Scholarship
 
