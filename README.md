@@ -14,7 +14,7 @@ My research mainly focuses on two areas: (1) AI scientist agents and (2) applica
 (1) AI scientist agents
 
 
-(2) Applications in finance, in collaboration with Zhuohan Xie and The FinanceAI.
+(2) Applications in finance, in collaboration with Zhuohan Xie and The FinAI.
 
 
 ## 🌟 Open-Source Projects
