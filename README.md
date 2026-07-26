@@ -11,10 +11,10 @@ Contact: jifengxian1224@gmail.com
 ## 🌟 Selected Publications
 My research mainly focuses on two areas: (1) AI scientist agents and (2) applications in finance.
 
-(1) AI scientist agents
+(1) AI scientist agents (Main)
 
 
-(2) Applications in finance
+(2) Applications in finance (Addition)
 
 
 ## 🌟 Open-Source Projects
