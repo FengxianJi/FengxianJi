@@ -39,4 +39,6 @@ My research mainly focuses on two areas: (1) AI scientist agents and (2) applica
 - National Scholarship for Undergraduates
 - School Second-Class Scholarship
 
+## 🌟 Academic services
+
 ## 🌟 Hobby
