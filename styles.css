@@ -388,15 +388,6 @@ blockquote {
   padding-top: 32px;
   border-top: 1px solid var(--line);
 }
-.comments-panel h3 {
-  margin: 0;
-  font: 700 25px/1.2 Georgia, "Times New Roman", serif;
-}
-.comments-panel > p:not(.eyebrow) {
-  max-width: 700px;
-  margin: 10px 0 22px;
-  font-size: 14px;
-}
 .giscus,
 .giscus-frame {
   width: 100%;
